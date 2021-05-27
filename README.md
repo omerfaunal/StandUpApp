@@ -17,6 +17,8 @@ When you get the alert:
 
 You type how many minutes you want to work, how many minutes you want to take a break. It gives you an audible alert to stand up when the time is up!
 
+Writes a tick for each set of work you complete. This way you can see how much you have worked!
+
 ![Image of main](https://github.com/omerfaunal/StandUpReminderApp/blob/main/images/main.PNG?raw=true)
 
 ### Set Timer
